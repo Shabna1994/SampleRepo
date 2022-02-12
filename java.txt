@@ -1,0 +1,15 @@
+package pack1;
+
+public class Helloworld {
+
+	public static void main(String[] args) {
+		
+<<<<<<< HEAD
+		System.out.println("HELLO JAVA JAVA GIT ");
+=======
+		System.out.println("HELLO JAVA automation ");
+>>>>>>> 2959ecd0d9f515b153fc83986b94e0c7674e71f9
+
+	}
+
+}
